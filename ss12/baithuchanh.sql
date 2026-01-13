@@ -1,8 +1,3 @@
-/* =========================================================
-   FULL CODE - SOCIAL NETWORK MINI PROJECT (BÀI 1 -> 14)
-   (KHÔNG DÙNG CHARACTER SET / COLLATE, KHÔNG DÙNG SIGNAL)
-   ========================================================= */
-
 DROP DATABASE IF EXISTS social_network_lab;
 CREATE DATABASE social_network_lab;
 USE social_network_lab;
